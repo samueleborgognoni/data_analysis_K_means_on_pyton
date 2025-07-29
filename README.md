@@ -3,7 +3,7 @@
 The Python project, related to the course "Fundamentals of Informatics" taught by Prof. Adriano Mancini at Università Politecnica delle Marche (UNIVPM), aims at analyzing a JSON dataset concerning unfinished public works in Italy (dataset source: https://dati.mit.gov.it/catalog/dataset/opere-incompiute). Custom classes, exceptions, functions, and the K-means algorithm have been used, without relying on the pandas and csv libraries, as required by the exam instructions.
 
 
-Here below, the detailed track of the exam:
+**Here below, the detailed track of the exam**:
 
 Develop Python code that implements the following functionalities:
 
